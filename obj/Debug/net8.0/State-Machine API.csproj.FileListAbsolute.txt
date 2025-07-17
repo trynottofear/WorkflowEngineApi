@@ -1,0 +1,32 @@
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.csproj.AssemblyReference.cache
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.AssemblyInfoInputs.cache
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.AssemblyInfo.cs
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.csproj.CoreCompileInputs.cache
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\appsettings.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\State-Machine API.exe
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\State-Machine API.deps.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\State-Machine API.runtimeconfig.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\State-Machine API.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\State-Machine API.pdb
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets\msbuild.State-Machine API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets\msbuild.build.State-Machine API.props
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.State-Machine API.props
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.State-Machine API.props
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\scopedcss\bundle\State-Machine API.styles.css
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Ma.C73B99F8.Up2Date
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\refint\State-Machine API.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.pdb
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.genruntimeconfig.cache
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\ref\State-Machine API.dll
