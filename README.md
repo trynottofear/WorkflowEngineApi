@@ -24,7 +24,7 @@ A simple, extensible **state machine API** built using **.NET 8 Minimal APIs** t
 ### ▶️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/WorkflowEngineApi.git
+git clone https://github.com/trynottofear/WorkflowEngineApi.git
 cd WorkflowEngineApi
 dotnet run
 ```
