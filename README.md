@@ -203,6 +203,8 @@ Executes a state transition by sending an action string.
   "history": [
     {
       "action": "submit",
+      "fromState": "Draft",
+      "toState": "UnderReview",
       "timestamp": "2025-07-17T12:00:00Z"
     }
   ]
