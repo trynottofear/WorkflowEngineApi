@@ -30,3 +30,4 @@ C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0
 C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.pdb
 C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.genruntimeconfig.cache
 C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\ref\State-Machine API.dll
+C:\Users\shaur\source\repos\State-Machine API\State-Machine API\obj\Debug\net8.0\State-Machine API.sourcelink.json

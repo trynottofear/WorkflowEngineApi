@@ -92,10 +92,14 @@ namespace State_Machine_API.Services
             if (!action.FromStates.Contains(inst.CurrentStateId))
                 throw new ApplicationException("Action cannot be executed from the current state.");
             // Perform transition
+            var fromState = inst.CurrentStateId;
+            var toState = action.ToState;
             inst.CurrentStateId = action.ToState;
             inst.History.Add(new InstanceHistoryEntry
             {
                 ActionId = actionId,
+                FromState = fromState,
+                ToState = toState,
                 Timestamp = DateTime.UtcNow
             });
             return inst;

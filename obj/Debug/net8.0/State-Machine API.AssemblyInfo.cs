@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("State-Machine API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bceb28f7e591be525279c37a69f63c9ec0447592")]
 [assembly: System.Reflection.AssemblyProductAttribute("State-Machine API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("State-Machine API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
